@@ -9,4 +9,7 @@
     <NavItem>
         <NavLink href="/about">Не о нас</NavLink>
     </NavItem>
+    <NavItem>
+        <NavLink href="/Contacts">Не о нас</NavLink>
+    </NavItem>
 </Nav>
