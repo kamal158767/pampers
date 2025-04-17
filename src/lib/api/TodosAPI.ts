@@ -1,3 +1,8 @@
-ort { apiClient } from "$lib/config/apiClient";
+import { apiClient } from "$lib/config/apiClient";
 
-ort default class TodosAPI.
+export default class TodosAPI{
+    static async get getTodos():Promise<any>{
+        try{
+            const response = await TodosAPI.
+    }
+}
