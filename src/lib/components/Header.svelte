@@ -7,9 +7,9 @@
 </Navbar>
 <Nav>
     <NavItem>
-        <NavLink href="/about">Бомжики</NavLink>
+        <NavLink href="/about">Создатели(не мы)</NavLink>
     </NavItem>
     <NavItem>
-        <NavLink href="/Contacts">Пустота</NavLink>
+        <NavLink href="/Contacts">Контакт,адрес глав. создателя</NavLink>
     </NavItem>
 </Nav>

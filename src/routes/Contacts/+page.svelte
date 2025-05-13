@@ -2,13 +2,13 @@
     import { Container, ListGroup,ListGroupItem,Image } from "@sveltestrap/sveltestrap";
 </script>
 <svelte:head>
-    <litle>Наши орешки</litle>
+    <title>Наши орешки</title>
 </svelte:head>
 <Container>
-    <h1>Контакты работников</h1>
-    <Image class="w-100" src="https://avatars.mds.yandex.net/i?id=c1253db3061136e22a488b05e661f222_l-5332335-images-thumbs&n=13"></Image>
+    <h1>Контакт глав. создателя</h1>
+    <Image class="w-100" src="https://avatars.mds.yandex.net/i?id=dc4ac1a495ffeb9016d939998505e2c9_l-5210586-images-thumbs&n=13"></Image>
     <ListGroup>
         <ListGroupItem>Тел. 8-965-589-85-93</ListGroupItem>
-        <ListGroupItem>Бомжатник у мусорки</ListGroupItem>
+        <ListGroupItem>Скромная комнотка</ListGroupItem>
     </ListGroup>
 </Container>
