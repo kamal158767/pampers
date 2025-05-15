@@ -7,7 +7,7 @@
 </Navbar>
 <Nav>
     <NavItem>
-        <NavLink href="/about">Создатели(не мы)</NavLink>
+        <NavLink href="/about">Создатели</NavLink>
     </NavItem>
     <NavItem>
         <NavLink href="/Contacts">Контакт,адрес глав. создателя</NavLink>
